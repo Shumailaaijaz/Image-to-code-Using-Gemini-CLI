@@ -22,6 +22,5 @@ Type this command that is higlighted un the image: canva_ss.png
 
 Finally Gemini made up the Canva Hero Page by image canva_ss.png
 by Shumaila Aijaz
-After this /chat save the Chat!
 
 🤩 Author
